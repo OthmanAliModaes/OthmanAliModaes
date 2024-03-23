@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OthmanAliModaes
+- 👋 Hi, I’m Othman Ali Modaes, In Arabic عثمان علي مـُـداعس.
 - 👀 I’m interested in Software Development, Systems Designing, Blogging, etc...
 
 <!---
